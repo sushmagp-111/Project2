@@ -10,4 +10,7 @@ multiplication
 /
 
 
-Thank You.
+modulo operator
+%
+
+Thank You:)
