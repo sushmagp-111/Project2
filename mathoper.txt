@@ -4,3 +4,7 @@ addition
 substraction
 division
 multiplication
++
+-
+*
+/
